@@ -7,7 +7,9 @@ A compact character-level small language model combining:
 - Shortcut consistency between short and long loop trajectories
 - Graph Neural Network message passing over token nodes
 
-This is an educational, end-to-end PyTorch implementation. It is intentionally small enough to train on CPU/Mac/GPU using a text file.
+## Pointers
+- This is an educational, end-to-end PyTorch implementation.
+- It is intentionally small enough to train on CPU/Mac/GPU using a text file.
 
 ## Setup
 
