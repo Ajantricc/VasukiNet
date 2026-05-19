@@ -1,0 +1,5 @@
+LoopGNN is a small language model architecture that combines recurrent loop refinement with graph neural message passing.
+The model reads token sequences, builds contextual hidden states, and repeatedly improves those states through several reasoning loops.
+Graph neural networks help nearby and structurally related tokens exchange information.
+LoopFormer style recurrence allows the model to reuse parameters across multiple refinement steps.
+Small language models can be useful for local reasoning, embedded AI, document analysis, code assistants, and domain-specific automation.
